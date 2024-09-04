@@ -1,6 +1,6 @@
 {
   "name": "apidog-reporter-htmlextra",
-  "version": "1.23.2",
+  "version": "1.23.3",
   "description": "A apidog reporter with added handlebars helpers and separated request iterations",
   "main": "src/index.js",
   "preferGlobal": true,
