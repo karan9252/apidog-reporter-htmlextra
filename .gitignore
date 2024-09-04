@@ -1,0 +1,13 @@
+node_modules
+
+*.log
+*.log.*
+
+/out/
+/newman/
+/reports/
+/.temp/
+
+.DS_Store
+dist-*
+*.tgz
