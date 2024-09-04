@@ -1,15 +1,15 @@
 {
   "name": "apidog-reporter-htmlextra",
-  "version": "1.23.3",
+  "version": "1.23.4",
   "description": "A apidog reporter with added handlebars helpers and separated request iterations",
   "main": "src/index.js",
   "preferGlobal": true,
   "deprecated": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/karan9252/apidog-report-htmlextra.git"
+    "url": "https://github.com/karan9252/apidog-reporter-htmlextra.git"
   },
-  "bugs": "https://github.com/karan9252/apidog-report-htmlextra/issues",
+  "bugs": "https://github.com/karan9252/apidog-reporter-htmlextra/issues",
   "keywords": ["apidog", "reporter", "html", "htmlextra"],
   "files": ["src/", "LICENSE.md"],
   "license": "Apache-2.0",
